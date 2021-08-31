@@ -35,7 +35,15 @@ body{
 .cart-item .form-control{
 	background-color: #F6F5FA;
 	border: none;
-    width: 65px;
+    border-radius: 10px!important;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.inputText{
+	background-color: #F6F5FA;
+	width: 70px;
+	border: none;
     border-radius: 10px!important;
     font-weight: 700;
     font-size: 20px;
